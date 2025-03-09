@@ -12,5 +12,5 @@ Check out the live app:[click here]( https://g-playstore-dashboard.streamlit.app
 ## 📦 Installation
 Clone the repo:
 ```bash
-git clone (https://github.com/Kakrote/Build-Real-time-Google-Play-store-data-analytics---python.git)
+git clone (https://github.com/Kakrote/Build-Real-time-Google-Play-store-data-analytics---python.git))
 cd google-playstore-dashboard
