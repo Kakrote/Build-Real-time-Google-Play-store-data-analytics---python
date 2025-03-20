@@ -29,7 +29,7 @@ def main():
         'Highlight': 'max'
     })
     category_summary['Highlight_Label'] = category_summary['Highlight'].apply(
-        lambda x: '🔥 Above 1M Installs' if x else '📊 Below 1M Installs'
+        lambda x: 'Above 1M Installs' if x else 'Below 1M Installs'
     )
 
     # Time restriction: 12 PM to 8 PM IST
